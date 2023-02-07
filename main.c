@@ -4,7 +4,7 @@ void
 print_string (char *str)
 {
   if (str)
-    printf (â€œ%s \ n â €, str);
+    printf ("%s \n", str);
   else
-    printf (â€œEmpty Argument Provided \ n â €);
+    printf ("Empty Argument Provided \n");
 }
